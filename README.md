@@ -25,4 +25,4 @@ Along with the above commands, "Finn" is equiped with several other functions:
         Announces Members joining/leaving, allowing you to remove Discord built in function. 
         Loves when people say hello!
         
-        
+         
